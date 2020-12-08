@@ -1,0 +1,23 @@
+#home {
+  background-image: url("water.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #3c5c3c;
+  color: white;
+}
+a {
+  color: inherit;
+}
+a:visited {
+  color: inherit;
+}
+#portal {
+  background-image: url("https://buffer.com/library/content/images/size/w1200/library/wp-content/uploads/2016/06/giphy.gif");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #3c5c3c;
+  color: white;
+  height: 100vh;
+}
