@@ -12,12 +12,31 @@ a {
 a:visited {
   color: inherit;
 }
-#portal {
-  background-image: url("https://buffer.com/library/content/images/size/w1200/library/wp-content/uploads/2016/06/giphy.gif");
+#stage1 {
+  background-image: url("https://media2.giphy.com/avatars/flavisamurai/f8nQKVcHQFqE.gif");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #3c5c3c;
+  background-color: #7272b5;
   color: white;
   height: 100vh;
+}
+#stage2 {
+  background-image: url("https://i.pinimg.com/originals/2e/2a/2d/2e2a2dbc013a41853d5eeebc7b16b987.gif");
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-color: #784643;
+  height: 80vh;
+  color: white
+}
+#stage4 {
+  background-color: #372f4a
+}
+#odd {
+  background-color: #ada686
+}
+#stage5 {
+  border-color: #505152
+
 }
